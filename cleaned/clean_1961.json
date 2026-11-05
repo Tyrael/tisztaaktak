@@ -1,0 +1,1370 @@
+[
+  {
+    "guid": "2ed11dc9-491e-456a-a89f-ed566b34f192",
+    "nev": "Agali Ag Ibrahim",
+    "szul_ido": "1961.05.20",
+    "anyja_neve": "Fatimata Algaliz",
+    "fedonev": "Albi",
+    "szul_hely": "Kayes",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "dc1fdd05-498f-4e20-9316-95040351646e",
+    "nev": "Bacsa Tibor József",
+    "szul_ido": "1961.05.29",
+    "anyja_neve": "Micsonai Irma",
+    "fedonev": "Kiss Tamás",
+    "szul_hely": "Gyöngyös",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "e7d1f6b5-188b-4fe2-9f65-d164fd33e110",
+    "nev": "Bagdán Sándor",
+    "szul_ido": "1961.08.14",
+    "anyja_neve": "Szücs Ilona",
+    "fedonev": "Szücs Sándor",
+    "szul_hely": "Mezotúr",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a6491dc2-dee0-49a5-a69e-35dc8f264bff",
+    "nev": "Bandl Tamás",
+    "szul_ido": "1961.12.08",
+    "anyja_neve": "Farkas Judit",
+    "fedonev": "Kalocsai",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "04884ca3-1dcd-43da-8a0a-7741532ea9f0",
+    "nev": "Baranyai Gábor",
+    "szul_ido": "1961.08.25",
+    "anyja_neve": "Nagy Piroska",
+    "fedonev": "Balázs",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "7e0d1717-4ed7-45d6-8d2e-6e2b9cf4ecc5",
+    "nev": "Bardon János",
+    "szul_ido": "1961.08.19",
+    "anyja_neve": "Burján Ottilia",
+    "fedonev": "Kárpáti Zoltán",
+    "szul_hely": "Mohács",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "4f4fae06-1819-4605-951c-b529ed2916a3",
+    "nev": "Bede Fazekas Zsolt",
+    "szul_ido": "1961.12.12",
+    "anyja_neve": "Kundermann Irén",
+    "fedonev": "Regos István",
+    "szul_hely": "Gyor",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "eaebfc37-50d2-4e89-9620-b6365c001621",
+    "nev": "Berecki Pál",
+    "szul_ido": "1961.04.19",
+    "anyja_neve": "Popovics Anna",
+    "fedonev": "Vida",
+    "szul_hely": "Újkér",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "48c64892-f1db-4b55-86eb-8812a033bb43",
+    "nev": "Biczó Imre",
+    "szul_ido": "1961.05.31",
+    "anyja_neve": "Németh Ilona",
+    "fedonev": "Berkes",
+    "szul_hely": "Szombathely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "5376797f-3487-4ab6-be5a-57fa0561b9a8",
+    "nev": "Bognár Lajos",
+    "szul_ido": "1961.04.25",
+    "anyja_neve": "Papp Ottilia",
+    "fedonev": "Dunai Péter",
+    "szul_hely": "Sztálinváros",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "47ee6194-8827-4db7-8f09-c3b5bb63b271",
+    "nev": "Brunauer Károly",
+    "szul_ido": "1961.05.26",
+    "anyja_neve": "Kubliha Edit",
+    "fedonev": "Hegedus",
+    "szul_hely": "Rajka",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "ee413091-3ce0-4a90-aadc-59d2190c463b",
+    "nev": "Brányi László",
+    "szul_ido": "1961.07.10",
+    "anyja_neve": "Karmazsin Magdolna",
+    "fedonev": "Kocsis",
+    "szul_hely": "Csorna",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "b379ef8d-4ab9-41e4-838a-bb7cb0275ccc",
+    "nev": "Bányay András",
+    "szul_ido": "1961.11.04",
+    "anyja_neve": "Simandl Erzsébet",
+    "fedonev": "Vájár",
+    "szul_hely": "Tatabánya",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "62fa9485-68fb-4e87-acd0-a07098b0e1bc",
+    "nev": "Báthory Csongor Miklós",
+    "szul_ido": "1961.06.03",
+    "anyja_neve": "Horváth Ágnes",
+    "fedonev": "Benko Béla",
+    "szul_hely": "Miskolc",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "f4adb0fc-a222-4847-834e-a6052e4ce27b",
+    "nev": "Bódig László",
+    "szul_ido": "1961.02.05",
+    "anyja_neve": "Petró Margit",
+    "fedonev": "Gönci Tibor",
+    "szul_hely": "Miskolc",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "975a55e0-2028-4081-932c-fb14d9c1114f",
+    "nev": "Csatár Árpád József",
+    "szul_ido": "1961.12.25",
+    "anyja_neve": "Vittner Anna",
+    "fedonev": "Csinos",
+    "szul_hely": "Baja",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "dabbabeb-3939-4f75-87e8-84600317e066",
+    "nev": "Csizmadia Pál Gyozo",
+    "szul_ido": "1961.11.22",
+    "anyja_neve": "Farkas Mária",
+    "fedonev": "Rónai",
+    "szul_hely": "Lajosmizse",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a142d843-a876-43c8-acc8-ac0798a95c79",
+    "nev": "Császár János",
+    "szul_ido": "1961.03.22",
+    "anyja_neve": "Ropos Anna",
+    "fedonev": "Autós",
+    "szul_hely": "Szentgotthárd",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "5e9804a6-22a4-4ef7-8675-caccd4c72bac",
+    "nev": "Demeter László Sándor",
+    "szul_ido": "1961.02.07",
+    "anyja_neve": "Szabó Klára",
+    "fedonev": "Dobos Sándor",
+    "szul_hely": "Keszthely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "5f97313a-c131-4354-abc0-f95f79957f09",
+    "nev": "Dányi László Zoltán",
+    "szul_ido": "1961.10.02",
+    "anyja_neve": "Mohácsi Klára",
+    "fedonev": "Olivér",
+    "szul_hely": "Miskolc",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "6a855e3e-ec4e-414a-8bca-df8f0675d4bf",
+    "nev": "Eiben Ágoston",
+    "szul_ido": "1961.06.14",
+    "anyja_neve": "Jakab Éva",
+    "fedonev": "Polgár Gusztáv",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "abdb7014-4033-4ab2-9a2c-55227e847dba",
+    "nev": "Eiler Gábor",
+    "szul_ido": "1961.04.12",
+    "anyja_neve": "Mózser Erzsébet",
+    "fedonev": "Erdész",
+    "szul_hely": "Szekszárd",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "1ad02cae-5897-477b-b200-5d6fe455d3e2",
+    "nev": "Eory László",
+    "szul_ido": "1961.06.15",
+    "anyja_neve": "Bagla Mária",
+    "fedonev": "Ajax",
+    "szul_hely": "Gyor",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "2af27cfc-e5a5-4bf1-a145-6d91d6627e17",
+    "nev": "Fazekas Árpád",
+    "szul_ido": "1961.11.05",
+    "anyja_neve": "Bertók Éva",
+    "fedonev": "Farkas Ákos",
+    "szul_hely": "Szeged",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "47a7f164-241e-4ee5-b4aa-f733d3a660bf",
+    "nev": "Flaskay Miklós",
+    "szul_ido": "1961.05.15",
+    "anyja_neve": "Kertész Anna",
+    "fedonev": "Horváth Imre",
+    "szul_hely": "Eger",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "7191705c-9011-4298-b391-cfe5b4872e50",
+    "nev": "Fodor János",
+    "szul_ido": "1961.04.18",
+    "anyja_neve": "Simon Klára",
+    "fedonev": "Csanádi",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "b4b17c72-1ebc-4af2-a929-bd467198a9e2",
+    "nev": "Galó László",
+    "szul_ido": "1961.05.09",
+    "anyja_neve": "Mihály Etelka",
+    "fedonev": "Zámbó László",
+    "szul_hely": "Szolnok",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "9bceb856-e240-434a-bb75-c3e08d12b462",
+    "nev": "Gaál Jeno Zoltán",
+    "szul_ido": "1961.10.09",
+    "anyja_neve": "Steinsitz Jolán",
+    "fedonev": "Albin",
+    "szul_hely": "Letenye",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "210b20b7-8fbe-4a41-bd05-8822559ad5d9",
+    "nev": "Geday Gusztáv",
+    "szul_ido": "1961.08.27",
+    "anyja_neve": "Fodor Zsuzsanna",
+    "fedonev": "Viktor",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "5d1f67a8-34a9-42df-8420-8c57747ea648",
+    "nev": "Genov Atanáz",
+    "szul_ido": "1961.05.11",
+    "anyja_neve": "Sain Paulina",
+    "fedonev": "Black Sabbat",
+    "szul_hely": "Szentendre",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "fe06f301-1db7-483e-a017-4c3809a5916d",
+    "nev": "Gráczol László",
+    "szul_ido": "1961.07.27",
+    "anyja_neve": "Farkas Mária",
+    "fedonev": "Garami",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "4a40119a-d5de-4a17-9067-f5c04b892b86",
+    "nev": "Gál István",
+    "szul_ido": "1961.04.22",
+    "anyja_neve": "Barta Teréz",
+    "fedonev": "Robert",
+    "szul_hely": "Sajószentpéter",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "6a3e49b8-48e9-4269-8858-d2f5b4233e5d",
+    "nev": "Gálos Lajos Tibor",
+    "szul_ido": "1961.12.07",
+    "anyja_neve": "Semlényi Margit",
+    "fedonev": "Tulipán",
+    "szul_hely": "Szabadhídvég",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a7a45b14-d2fa-43e9-bdce-6262244ea914",
+    "nev": "Gáncs Ferenc",
+    "szul_ido": "1961.06.22",
+    "anyja_neve": "Rávolt Ilona",
+    "fedonev": "Gárdonyi",
+    "szul_hely": "Körmend",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "9f5431d9-c03f-4da0-952b-0108692f7c94",
+    "nev": "Hada Tibor",
+    "szul_ido": "1961.08.14",
+    "anyja_neve": "Horváth Kamilla",
+    "fedonev": "Horváth",
+    "szul_hely": "Pásztó",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "e77152df-d3c8-4c19-abae-e868a4c56d80",
+    "nev": "Hagos Gebru Tsegaye",
+    "szul_ido": "1961.09.23",
+    "anyja_neve": "Massu Tensu",
+    "fedonev": "Tenzor",
+    "szul_hely": "Tgray",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "7f90ec00-4c5f-4a9a-9dee-3691eaad017e",
+    "nev": "Hagyó Béla",
+    "szul_ido": "1961.01.08",
+    "anyja_neve": "Koós Ilona",
+    "fedonev": "Kobra",
+    "szul_hely": "Sztálinváros",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "981b336e-5307-4c8b-9979-f0efdd2e018b",
+    "nev": "Hajtman Márta Mária",
+    "szul_ido": "1961.04.02",
+    "anyja_neve": "Balogh Mária",
+    "fedonev": "Károlyi Mária",
+    "szul_hely": "Mezohegyes",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "e7fa2737-9797-4239-ae35-bf5414715fe7",
+    "nev": "Hangay Gábor",
+    "szul_ido": "1961.01.19",
+    "anyja_neve": "Gyurki Margit",
+    "fedonev": "Alfréd",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "d8754d86-7059-43dc-b0e4-ab5ccac84b81",
+    "nev": "Hauser Lajos",
+    "szul_ido": "1961.06.02",
+    "anyja_neve": "Bognár Erzsébet",
+    "fedonev": "Békésy",
+    "szul_hely": "Szentendre",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "d27ef91d-5808-40cb-8f36-728266aaa745",
+    "nev": "Holzer Alfred",
+    "szul_ido": "1961.11.27",
+    "anyja_neve": "Felföldi Magdolna",
+    "fedonev": "Hajós Sándor",
+    "szul_hely": "Gyöngyös",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a4190f1e-5e27-4069-8b80-5420b04236b4",
+    "nev": "Horváth Antal",
+    "szul_ido": "1961.02.04",
+    "anyja_neve": "Wéber Katalin",
+    "fedonev": "Gesztesi Zsolt",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "5b4e90a4-4374-405c-9bf7-d2a1ff4999c6",
+    "nev": "Horváth Endre Zoltán",
+    "szul_ido": "1961.07.17",
+    "anyja_neve": "Vári-Szabó Rózsa",
+    "fedonev": "Lukács",
+    "szul_hely": "Orosháza",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "ef9b444d-2566-4566-9fb5-604b5c01c95a",
+    "nev": "Horváth Szilárd",
+    "szul_ido": "1961.10.01",
+    "anyja_neve": "Pozsonyi Ilona",
+    "fedonev": "Lázár",
+    "szul_hely": "Zalaegerszeg",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "07938604-6b13-461f-b318-11dccbacbfa9",
+    "nev": "Horváth Zoltán János",
+    "szul_ido": "1961.08.09",
+    "anyja_neve": "Klein Teréz",
+    "fedonev": "Kis Ferenc",
+    "szul_hely": "Kaposvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "8ae21c76-e46d-47c4-bf86-fccf6280ab7b",
+    "nev": "Horváth Árpád",
+    "szul_ido": "1961.09.28",
+    "anyja_neve": "Kovács Margit",
+    "fedonev": "Miklósi",
+    "szul_hely": "Sarród",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "7c096670-99b8-4e27-93f0-5d686069935b",
+    "nev": "Hunyady Béla István, dr.",
+    "szul_ido": "1961.10.11",
+    "anyja_neve": "Sipos Katalin",
+    "fedonev": "Somogyi László",
+    "szul_hely": "Szombathely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "54845d1d-b67e-44c9-80fd-712231e9c272",
+    "nev": "Jokán János",
+    "szul_ido": "1961.11.15",
+    "anyja_neve": "Takács Mária",
+    "fedonev": "Takács",
+    "szul_hely": "Tököl",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "6696a63e-a7a1-4443-bda4-46e17d211866",
+    "nev": "Juhász László",
+    "szul_ido": "1961.10.02",
+    "anyja_neve": "Petrucza Irén",
+    "fedonev": "Kerekes",
+    "szul_hely": "Gyula",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "4875f79e-db29-4038-8de7-1e3913782c3f",
+    "nev": "Kaszás Ferenc",
+    "szul_ido": "1961.12.14",
+    "anyja_neve": "Szóládi Mária",
+    "fedonev": "Gáspár",
+    "szul_hely": "Siófok",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "d6162b2c-b2ac-4fc1-884b-9030a20d432f",
+    "nev": "Kemény Anna",
+    "szul_ido": "1961.12.26",
+    "anyja_neve": "Weisz Erika",
+    "fedonev": "Marosi Erika",
+    "szul_hely": "Tirgu-Mures, Marosvásárhely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "bc73f445-bba2-40f0-8f76-79c4648a43eb",
+    "nev": "Kertesi Attila Lajos, Kertész Attila Lajos",
+    "szul_ido": "1961.01.06",
+    "anyja_neve": "Lang Brigitta",
+    "fedonev": "Szalay László",
+    "szul_hely": "Gyor",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "cae3c8d8-b40a-4b76-afbd-4e15aa012a57",
+    "nev": "Kisbenedek László",
+    "szul_ido": "1961.04.27",
+    "anyja_neve": "Halász Valéria",
+    "fedonev": "Füzesi",
+    "szul_hely": "Ózd",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a68032c2-6c6a-4852-a504-e89d69500eb8",
+    "nev": "Kispál Tibor",
+    "szul_ido": "1961.05.10",
+    "anyja_neve": "Széll Irén",
+    "fedonev": "Szeles Nándor",
+    "szul_hely": "Szeged",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "38c461bd-04d8-4f74-81a1-d0d610ace761",
+    "nev": "Kiss Erno",
+    "szul_ido": "1961.09.23",
+    "anyja_neve": "Karácsony Irén",
+    "fedonev": "Vágó",
+    "szul_hely": "Öttevény",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "bb94b542-d5d3-48e7-a2a6-b7960e13172e",
+    "nev": "Kiss Zoltán",
+    "szul_ido": "1961.07.20",
+    "anyja_neve": "Mile Eszter",
+    "fedonev": "Vértesi",
+    "szul_hely": "Püspökladány",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "42e1a0b6-9626-48e9-9dca-6f214edeac47",
+    "nev": "Kiszely Attila Béla",
+    "szul_ido": "1961.11.01",
+    "anyja_neve": "Berta Mária",
+    "fedonev": "Korösi István",
+    "szul_hely": "Pécs",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "e8aa7b69-5e1c-4b8d-9568-2f9b82bc16e7",
+    "nev": "Kocsis Gyula",
+    "szul_ido": "1961.12.18",
+    "anyja_neve": "Völgyi Margit",
+    "fedonev": "Nyilasi",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "df21efa0-08a9-4484-80f9-9e502285a6f2",
+    "nev": "Kondász Róbert",
+    "szul_ido": "1961.11.16",
+    "anyja_neve": "Sutka Ilona",
+    "fedonev": "Borös",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "008804ae-ce76-4e7b-ac27-27ffc1a14d0f",
+    "nev": "Kovács Gábor",
+    "szul_ido": "1961.03.30",
+    "anyja_neve": "Dobrocsi Júlia",
+    "fedonev": "Dobozi István",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "42f72886-2948-4dec-bb23-5d974294f6af",
+    "nev": "Kovács Gábor",
+    "szul_ido": "1961.07.29",
+    "anyja_neve": "Szvacsek Erzsébet",
+    "fedonev": "Márta Zsolt",
+    "szul_hely": "Balassagyarmat",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "e082a954-b328-458c-9700-12e5c3ac817e",
+    "nev": "Kovács István",
+    "szul_ido": "1961.04.07",
+    "anyja_neve": "Juhász Mária",
+    "fedonev": "Zagyva Gábor",
+    "szul_hely": "Hatvan",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "ddf24ad0-78b2-4b88-9b16-25f3d223ea6a",
+    "nev": "Kovács Tamás",
+    "szul_ido": "1961.12.26",
+    "anyja_neve": "Kisgyörgy Edit",
+    "fedonev": "Kárpáti",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "2d18d7c4-1921-4a8c-a563-4c97fe572266",
+    "nev": "Kozma Ferenc",
+    "szul_ido": "1961.12.29",
+    "anyja_neve": "Lajtos Zsuzsanna",
+    "fedonev": "Sipos",
+    "szul_hely": "Mosonmagyaróvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c6166616-7de6-4238-a804-3cf009728935",
+    "nev": "Krajczár Zsolt Imre",
+    "szul_ido": "1961.09.26",
+    "anyja_neve": "Mesics Bernadett",
+    "fedonev": "Gáspár",
+    "szul_hely": "Szentgotthárd",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "fadeefd2-efb4-4799-bd98-fbb25d131be8",
+    "nev": "Krisztánovics Tamás",
+    "szul_ido": "1961.02.10",
+    "anyja_neve": "Horváth Ilona",
+    "fedonev": "Tarai",
+    "szul_hely": "Nova",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "5f794132-fbf6-4f14-a9b1-08086304c867",
+    "nev": "Krékity István",
+    "szul_ido": "1961.06.17",
+    "anyja_neve": "Martinkó Irén",
+    "fedonev": "Korsós",
+    "szul_hely": "Bácsalmás",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c9939654-5c25-4223-a0f9-22d08750a905",
+    "nev": "Krémer Péter László",
+    "szul_ido": "1961.07.17",
+    "anyja_neve": "Majnovics Irén",
+    "fedonev": "Dezso",
+    "szul_hely": "Csorna",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "74383d1a-0816-4de8-be9d-bf1044c87ee1",
+    "nev": "Kusics Zoltán",
+    "szul_ido": "1961.10.24",
+    "anyja_neve": "Giczi Rozália",
+    "fedonev": "Mészáros",
+    "szul_hely": "Kapuvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "228e8405-52cf-4305-af64-cf7bdd7a8a46",
+    "nev": "Kálmán Ákos",
+    "szul_ido": "1961.03.23",
+    "anyja_neve": "Pálóczi Julianna",
+    "fedonev": "Kereki",
+    "szul_hely": "Mohács",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "67418e4c-3606-46dd-acbf-d1896ce7ad29",
+    "nev": "Károlyi János",
+    "szul_ido": "1961.05.06",
+    "anyja_neve": "Seres Anna",
+    "fedonev": "Molnár József",
+    "szul_hely": "Kondoros",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c7e257dc-ac8b-474f-b005-24b7b077922c",
+    "nev": "Lakatos István",
+    "szul_ido": "1961.03.12",
+    "anyja_neve": "Jovanovics Piroska",
+    "fedonev": "Lukács",
+    "szul_hely": "Gyor",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "7ccf70dc-0489-4227-b6dd-c92a9032b40a",
+    "nev": "Lakits László",
+    "szul_ido": "1961.07.05",
+    "anyja_neve": "Fehrentheil Rózsa",
+    "fedonev": "Attila",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "89ea53c6-2bef-4478-83e8-c743c0c1ced6",
+    "nev": "Lengyel János",
+    "szul_ido": "1961.05.13",
+    "anyja_neve": "Árvai Erzsébet",
+    "fedonev": "Salamon",
+    "szul_hely": "Szikszó",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "b8414779-c020-49ef-af9e-356640b991dd",
+    "nev": "Lengyel Zoltán",
+    "szul_ido": "1961.01.04",
+    "anyja_neve": "Oláh Mária",
+    "fedonev": "Korsós",
+    "szul_hely": "Mosonmagyaróvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "2b5182be-0ee3-41fe-83d2-5776560a0cf0",
+    "nev": "Macher Sándor",
+    "szul_ido": "1961.04.04",
+    "anyja_neve": "Halász Ilona",
+    "fedonev": "Faludy Mihály",
+    "szul_hely": "Kapuvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "5c5b9346-a69e-41c8-9ad1-46332d8255e5",
+    "nev": "Makk Attila József",
+    "szul_ido": "1961.07.22",
+    "anyja_neve": "Kovaliczki Mária",
+    "fedonev": "Tölgyesi József",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a5fd8bc9-ad67-4e1a-bfa0-49b7ba7441cd",
+    "nev": "Marczin Eszter",
+    "szul_ido": "1961.09.21",
+    "anyja_neve": "Czingul Eszter",
+    "fedonev": "Erdosi Katalin",
+    "szul_hely": "Abaújszántó",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "e18788b5-31b7-416c-97ba-64567fd2c744",
+    "nev": "Margitics Ferenc",
+    "szul_ido": "1961.07.22",
+    "anyja_neve": "Varga Ilona",
+    "fedonev": "Balogh Tibor",
+    "szul_hely": "Vásárosnamény",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "8653f9e6-9b8a-4947-87d1-a6597ef7920f",
+    "nev": "Molnár Imre",
+    "szul_ido": "1961.11.29",
+    "anyja_neve": "Herczeg Margit",
+    "fedonev": "Attila",
+    "szul_hely": "Szombathely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "31021a1b-ec77-42a3-a103-e7804c334545",
+    "nev": "Márton Zsolt László",
+    "szul_ido": "1961.10.28",
+    "anyja_neve": "Szkita Irén",
+    "fedonev": "Szatmári László",
+    "szul_hely": "Nyíregyháza",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "48ed0ecd-d251-4b6f-88bf-c8d6e940c22f",
+    "nev": "Mátyus László",
+    "szul_ido": "1961.07.22",
+    "anyja_neve": "Vukovics Mária",
+    "fedonev": "Márton Lajos",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a2915ee3-da32-41bd-b5a6-64a2c64011ee",
+    "nev": "Mészáros László",
+    "szul_ido": "1961.02.18",
+    "anyja_neve": "Kovács Ilona",
+    "fedonev": "Asbót László",
+    "szul_hely": "Kaposvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "8c691afa-1af1-46cc-af80-665f0cefb1f3",
+    "nev": "Nagy Alajos Zoltán",
+    "szul_ido": "1961.05.11",
+    "anyja_neve": "Szabó Mária",
+    "fedonev": "Sárosi",
+    "szul_hely": "Fertoszentmiklós",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "3ff12728-04a2-4be1-b669-8da830753d01",
+    "nev": "Nagy Gyula",
+    "szul_ido": "1961.01.11",
+    "anyja_neve": "Haramia Margit",
+    "fedonev": "Nemes György",
+    "szul_hely": "Koszeg",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "d980aaf8-4a25-44a9-b87d-13d891db41c1",
+    "nev": "Nagyszöllosi Rita Erzsébet, Szigetiné",
+    "szul_ido": "1961.04.07",
+    "anyja_neve": "Tajthy Marianna",
+    "fedonev": "Zenész",
+    "szul_hely": "Esztergom",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "12b98e4a-12b5-4cd2-b9ea-53ad104ff078",
+    "nev": "Nazir Ahmed",
+    "szul_ido": "1961.02.14",
+    "anyja_neve": "Shafi Bageum",
+    "fedonev": "Zoltán",
+    "szul_hely": "Dacca",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "011bae76-f364-42ab-b9c6-480dbc6a4cef",
+    "nev": "Niederhoffer Zoltán",
+    "szul_ido": "1961.04.10",
+    "anyja_neve": "Hosztafi Róza",
+    "fedonev": "Mosonyi",
+    "szul_hely": "Mosonmagyaróvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "eb39b1cc-38e1-4fb7-b142-3ce442c7f84f",
+    "nev": "Németh András Tibor",
+    "szul_ido": "1961.08.08",
+    "anyja_neve": "Horváth Erzsébet",
+    "fedonev": "Csatári",
+    "szul_hely": "Csorna",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "fbb5a7f1-f7ca-4e8a-a0a2-3ac7f30fbe8b",
+    "nev": "Németh Csilla",
+    "szul_ido": "1961.05.14",
+    "anyja_neve": "Dániel Teréz",
+    "fedonev": "Zsanett",
+    "szul_hely": "Mosonmagyaróvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "7304c05c-8bbf-4fc5-a075-524656fd3470",
+    "nev": "Németh Gyula",
+    "szul_ido": "1961.10.28",
+    "anyja_neve": "Horváth Margit",
+    "fedonev": "Sárdy Gáspár",
+    "szul_hely": "Gyor",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c579bd48-74ef-46de-bb5c-7d3b5240c59c",
+    "nev": "Pamuki László",
+    "szul_ido": "1961.11.03",
+    "anyja_neve": "Bedo Erzsébet",
+    "fedonev": "Kanizsai László",
+    "szul_hely": "Zalaegerszeg",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c548d62d-60d8-44cd-9461-c1c5189f732d",
+    "nev": "Papp Zsolt",
+    "szul_ido": "1961.05.01",
+    "anyja_neve": "Pfundtner Etelka",
+    "fedonev": "Lukács László",
+    "szul_hely": "Szekszárd",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "1c154bef-3b89-4a52-8ec6-df96dadefdfd",
+    "nev": "Perjési Sándor",
+    "szul_ido": "1961.10.12",
+    "anyja_neve": "Avemária Ildikó",
+    "fedonev": "Kunsági",
+    "szul_hely": "Mezotúr",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "641716fd-04dd-4b6b-89ee-bfc9d74332ea",
+    "nev": "Pesti Mária, Krácsonyi Gergelyné",
+    "szul_ido": "1961.03.29",
+    "anyja_neve": "Csetneki Mária",
+    "fedonev": "Farkas",
+    "szul_hely": "Csenger",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "9e886269-2c09-42cf-bc59-12a57fb03825",
+    "nev": "Piros Csaba",
+    "szul_ido": "1961.02.26",
+    "anyja_neve": "Tóth Mária",
+    "fedonev": "Peterdi Csaba",
+    "szul_hely": "Pécs",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "4eec83f5-1f83-4b86-9f07-bf6a964a3126",
+    "nev": "Pleva Eszter",
+    "szul_ido": "1961.11.19",
+    "anyja_neve": "Andrási Eszter",
+    "fedonev": "Krisztina",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "470a5c50-af61-4a44-bb51-451bc2b9fcea",
+    "nev": "Posta Gábor",
+    "szul_ido": "1961.10.22",
+    "anyja_neve": "Messing Yvonne",
+    "fedonev": "Balkán",
+    "szul_hely": "Lom",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "052e0b14-7a18-42a9-8c4f-8935233d9609",
+    "nev": "Prelogh Károly",
+    "szul_ido": "1961.03.10",
+    "anyja_neve": "Tóth Mária",
+    "fedonev": "Kerkai",
+    "szul_hely": "Letenye",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "09c102a7-05f4-4ad3-96c2-c006a974417c",
+    "nev": "Priszinger Adél",
+    "szul_ido": "1961.05.24",
+    "anyja_neve": "Strammer Margit",
+    "fedonev": "Eszter",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "849d0eeb-cb16-4b13-8426-077d43d56b89",
+    "nev": "Puskás Péter",
+    "szul_ido": "1961.04.15",
+    "anyja_neve": "Varga Ilona",
+    "fedonev": "Fekete",
+    "szul_hely": "Gödöllo",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "573b63e4-f0bf-4994-8022-86bd6e7a20ee",
+    "nev": "Pádár Ottó",
+    "szul_ido": "1961.01.28",
+    "anyja_neve": "Tóth Zsuzsanna",
+    "fedonev": "Boros József",
+    "szul_hely": "Battonya",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "37416bb4-0172-4ac5-9959-2418ee678511",
+    "nev": "Pálfy Gábor",
+    "szul_ido": "1961.03.10",
+    "anyja_neve": "Bálint Ilona",
+    "fedonev": "Tornyos",
+    "szul_hely": "Nagykanizsa",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a3e1d89f-98d9-4bc8-8948-70aa6e3d91ee",
+    "nev": "Pálinkó Gábor",
+    "szul_ido": "1961.06.27",
+    "anyja_neve": "Osze Erzsébet",
+    "fedonev": "Bobojsza",
+    "szul_hely": "Szony",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "43b85dea-66ad-43bb-a11f-e2a537c6bbf4",
+    "nev": "Rieger Károly",
+    "szul_ido": "1961.02.15",
+    "anyja_neve": "Kozó Erzsébet",
+    "fedonev": "Rózsás",
+    "szul_hely": "Szentgotthárd",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "4c5b8f49-7fb7-4d51-bbbe-f51e5b4335b4",
+    "nev": "Rigó Zoltán",
+    "szul_ido": "1961.09.17",
+    "anyja_neve": "Pataki Éva",
+    "fedonev": "Somogyi László",
+    "szul_hely": "Kaposvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a3d25b29-7d89-495b-906c-6587ed3967dd",
+    "nev": "Ruisz Tibor Attila",
+    "szul_ido": "1961.10.11",
+    "anyja_neve": "Pogácsás Mária",
+    "fedonev": "Benko Dávid",
+    "szul_hely": "Zalaegerszeg",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "07c5efdf-2a8f-47a6-8fa2-e3dc72ba49d4",
+    "nev": "Rácz Róbert",
+    "szul_ido": "1961.10.13",
+    "anyja_neve": "Princz Margit",
+    "fedonev": "Ipoly",
+    "szul_hely": "Salgótarján",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "398647af-76fe-4949-a34a-aed267d1b985",
+    "nev": "Réthly Gábor",
+    "szul_ido": "1961.08.14",
+    "anyja_neve": "Barkai Piroska",
+    "fedonev": "Dici Gábor",
+    "szul_hely": "Miskolc",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "31ad7758-11fc-4bde-b662-c3fe28798d5a",
+    "nev": "Schwábli Ferenc",
+    "szul_ido": "1961.05.24",
+    "anyja_neve": "Darázsi Margit",
+    "fedonev": "Kéri",
+    "szul_hely": "Mosonmagyaróvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "1dd04eab-0b9f-4579-ac84-efcff39319c7",
+    "nev": "Siklósi Imre",
+    "szul_ido": "1961.05.10",
+    "anyja_neve": "Süle Mária",
+    "fedonev": "Tolnai Gyozo",
+    "szul_hely": "Zirc",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "d310573a-5632-47d0-8b2d-3ae3b2636c1e",
+    "nev": "Simon Lajos",
+    "szul_ido": "1961.03.12",
+    "anyja_neve": "Fórizs Rózsa",
+    "fedonev": "Soltész",
+    "szul_hely": "Miskolc",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "f999faf9-b8c7-40ce-9734-62aad26e44fe",
+    "nev": "Stájer István",
+    "szul_ido": "1961.10.08",
+    "anyja_neve": "Mákos Margit",
+    "fedonev": "Büki Pál",
+    "szul_hely": "Szentgotthárd",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "9983529b-1ae0-4e18-9186-a391125fa4d0",
+    "nev": "Sulyok Sándor",
+    "szul_ido": "1961.03.02",
+    "anyja_neve": "Szeberényi Anna",
+    "fedonev": "Nógrádi",
+    "szul_hely": "Salgótarján",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "3e46d6d9-ad4b-436f-863a-0dced4e265d8",
+    "nev": "Szabadi László",
+    "szul_ido": "1961.07.30",
+    "anyja_neve": "Hámori Erzsébet",
+    "fedonev": "Töprengo",
+    "szul_hely": "Barcs",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "0d9636e5-3301-4f3e-b173-61b21e3bbbae",
+    "nev": "Szabó Ferenc",
+    "szul_ido": "1961.02.18",
+    "anyja_neve": "Simon Irén",
+    "fedonev": "Péteri Ferenc",
+    "szul_hely": "Sajószentpéter",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "25ce7093-68f1-4638-bbef-3bd587616548",
+    "nev": "Szabó Gyula",
+    "szul_ido": "1961.11.02",
+    "anyja_neve": "Rácz Marianna",
+    "fedonev": "Fehérvári Zsolt",
+    "szul_hely": "Debrecen",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "fb6d52b9-7031-4d0e-860d-2d9cb7422881",
+    "nev": "Szabó Zoltán",
+    "szul_ido": "1961.06.17",
+    "anyja_neve": "Rádler Ilona",
+    "fedonev": "Hajdu",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "fa7408a1-144b-41ce-afb6-7cb8686848ad",
+    "nev": "Szakáll László",
+    "szul_ido": "1961.05.02",
+    "anyja_neve": "Franciskovics Rozália",
+    "fedonev": "Szamosi",
+    "szul_hely": "Tompa",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a29ae378-9a90-451c-bbc0-285095cbffc8",
+    "nev": "Szelezsán Demeter",
+    "szul_ido": "1961.05.18",
+    "anyja_neve": "Dombi Ilona",
+    "fedonev": "Szalontai",
+    "szul_hely": "Gyula",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "0ffc8a4b-2a4d-4d57-9f7e-4ddf830eca7c",
+    "nev": "Szemerits Margit, Zrínyi Ferencné",
+    "szul_ido": "1961.09.18",
+    "anyja_neve": "Nagy Margit",
+    "fedonev": "Marianna",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "01817874-5bc6-422f-8bc6-b87c31a110ea",
+    "nev": "Szikes Péter Zoltán",
+    "szul_ido": "1961.12.23",
+    "anyja_neve": "Lehoczki Mária",
+    "fedonev": "Tünde",
+    "szul_hely": "Gyula",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "1c7f68ee-c6ac-476d-8932-3be91618254f",
+    "nev": "Szili István",
+    "szul_ido": "1961.01.24",
+    "anyja_neve": "Hencz Irén",
+    "fedonev": "Komáromi Endre",
+    "szul_hely": "Dombóvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "9f54ce54-7480-4c84-96c8-1fc0b1cee3cd",
+    "nev": "Szilvasán Attila György",
+    "szul_ido": "1961.08.01",
+    "anyja_neve": "Berindza Mária",
+    "fedonev": "Borisz",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "e469a33d-e8ca-4fea-97f3-5a19c2d6efc3",
+    "nev": "Szirony Ildikó",
+    "szul_ido": "1961.06.06",
+    "anyja_neve": "Kertész Farkas Julianna",
+    "fedonev": "Csongádi Ibolya",
+    "szul_hely": "Pécs",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "8c5417f8-6421-43fd-ba40-341341c07581",
+    "nev": "Szládek László",
+    "szul_ido": "1961.08.05",
+    "anyja_neve": "Árgyusi Katalin",
+    "fedonev": "Csabai László",
+    "szul_hely": "Békéscsaba",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "76c29c5e-b97b-4af3-bcdb-b4417f95445b",
+    "nev": "Szoke Sándor",
+    "szul_ido": "1961.05.20",
+    "anyja_neve": "Bank Erzsébet",
+    "fedonev": "Bakonyi",
+    "szul_hely": "Mezotúr",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "630397bc-e985-4f9a-a653-7033f159318d",
+    "nev": "Szoke Sándor",
+    "szul_ido": "1961.06.12",
+    "anyja_neve": "Horváth Margit",
+    "fedonev": "Toldi",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "1032d9e8-3219-407d-802a-aca577a27560",
+    "nev": "Székely Péter",
+    "szul_ido": "1961.09.10",
+    "anyja_neve": "Dúl Irén",
+    "fedonev": "Erdélyi Péter",
+    "szul_hely": "Ózd",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "8c7ec8a9-18a5-406f-974f-3bb9f1c67b92",
+    "nev": "Tajti János",
+    "szul_ido": "1961.12.11",
+    "anyja_neve": "Rózsa Magdolna",
+    "fedonev": "Madarász",
+    "szul_hely": "Dunaújváros",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "74442caa-20de-4c53-87c8-c5b7ddff05a0",
+    "nev": "Talpas Ferenc",
+    "szul_ido": "1961.11.08",
+    "anyja_neve": "Urbán Mária",
+    "fedonev": "Keresztes Lajos",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "1e3c7421-613e-4847-80f0-18743518a2d0",
+    "nev": "Tamás László Ferenc",
+    "szul_ido": "1961.03.01",
+    "anyja_neve": "Kellner Anna",
+    "fedonev": "Temesi",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "b8e744c2-c0a4-4465-9e64-e5eeb47286b6",
+    "nev": "Temesi Károly",
+    "szul_ido": "1961.02.12",
+    "anyja_neve": "Udvari Margit",
+    "fedonev": "Ungváry István",
+    "szul_hely": "Pécs",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "ad54ba20-3db9-48b6-b0e2-fd853077c8ce",
+    "nev": "Till Zoltán Miklós",
+    "szul_ido": "1961.12.07",
+    "anyja_neve": "Minczér Ilona",
+    "fedonev": "Tamási Miklós",
+    "szul_hely": "Dorog",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "49525424-2c70-4d3f-aabf-7a48040002c2",
+    "nev": "Togyi Ferenc",
+    "szul_ido": "1961.06.15",
+    "anyja_neve": "Varga-Fekete Ilona",
+    "fedonev": "Földvári Attila",
+    "szul_hely": "Tiszaföldvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "9841e02b-8aff-4a2f-b31c-7067247292d6",
+    "nev": "Toma Erno",
+    "szul_ido": "1961.01.16",
+    "anyja_neve": "Koncsik Mária",
+    "fedonev": "Király",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "470c0b0e-35f4-46c5-8505-0f4025119ab7",
+    "nev": "Tóth Attila",
+    "szul_ido": "1961.03.08",
+    "anyja_neve": "Czobor Margit",
+    "fedonev": "Nagy Imre",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "66a4d323-da5b-4370-b7bc-6bb1154182f5",
+    "nev": "Tóth Gábor",
+    "szul_ido": "1961.05.05",
+    "anyja_neve": "Németi Erzsébet",
+    "fedonev": "Szabó György",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "f1f07402-894a-444c-9f4a-79a811cebf5c",
+    "nev": "Török Lajos",
+    "szul_ido": "1961.07.14",
+    "anyja_neve": "Erdos Katalin",
+    "fedonev": "Pataki Béla",
+    "szul_hely": "Sárospatak",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "7ad9ad26-060d-4723-8e7d-25aae281f2f9",
+    "nev": "Varga Ferenc",
+    "szul_ido": "1961.12.18",
+    "anyja_neve": "Fülöp Rozália",
+    "fedonev": "Pintér Sándor",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "2c525b9d-d60c-4001-b2c8-0bbcc1aad446",
+    "nev": "Varga Sándor",
+    "szul_ido": "1961.10.31",
+    "anyja_neve": "Simon Piroska",
+    "fedonev": "Makai",
+    "szul_hely": "Kapuvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "fd450787-30e2-4782-8baa-723fce15cafe",
+    "nev": "Varga Zoltán",
+    "szul_ido": "1961.03.24",
+    "anyja_neve": "Maráczi Mária",
+    "fedonev": "Timár",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "190c82dd-9321-4004-af91-1c30b04dc8f8",
+    "nev": "Vass Iván",
+    "szul_ido": "1961.07.25",
+    "anyja_neve": "Felföldi Erzsébet",
+    "fedonev": "Vándor István",
+    "szul_hely": "Miskolc",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "56002f40-073e-48f3-84a3-385da28ae2cc",
+    "nev": "Vereb István",
+    "szul_ido": "1961.09.27",
+    "anyja_neve": "Gál Katalin",
+    "fedonev": "Dunai Zsolt",
+    "szul_hely": "Sztálinváros",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "b58e1043-6caf-4e73-ac26-55549b3058ce",
+    "nev": "Vágó László",
+    "szul_ido": "1961.07.04",
+    "anyja_neve": "Anek Erzsébet",
+    "fedonev": "Robi",
+    "szul_hely": "Nagykanizsa",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "64bb2a57-23d5-4c62-beb1-ce2aca936540",
+    "nev": "Wencel Árpád",
+    "szul_ido": "1961.02.13",
+    "anyja_neve": "Szekeres Irén",
+    "fedonev": "Kertész Péter",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "f63be2a6-7de0-44e6-9157-4a5a3b565927",
+    "nev": "Wild János",
+    "szul_ido": "1961.02.27",
+    "anyja_neve": "Birkenstock Erzsébet",
+    "fedonev": "Gyimesi László",
+    "szul_hely": "Komló",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "ee265df7-f6ac-49fa-9948-e906c2f73867",
+    "nev": "Zanati Imre",
+    "szul_ido": "1961.04.03",
+    "anyja_neve": "Kiss Anna",
+    "fedonev": "Hortobágyi",
+    "szul_hely": "Sárvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "ef43373f-8b99-4231-9dca-609b6bdf2845",
+    "nev": "Zelenka József",
+    "szul_ido": "1961.02.10",
+    "anyja_neve": "Horváth Erzsébet",
+    "fedonev": "Sümegi",
+    "szul_hely": "Csabrendek",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "6b4ba069-d287-4bf9-81f5-787b8b75f6bf",
+    "nev": "Zelenyak László",
+    "szul_ido": "1961.04.06",
+    "anyja_neve": "Simon Judit",
+    "fedonev": "Bányász",
+    "szul_hely": "Tatabánya",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "4bd64fd0-9312-47c7-9e2d-858fa3b03933",
+    "nev": "Zubornyák Zoltán",
+    "szul_ido": "1961.09.09",
+    "anyja_neve": "Bencze Margit",
+    "fedonev": "Péter Tamás",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "8c309042-6e73-4a87-a36d-1da7e8d26163",
+    "nev": "Édelmann Ildikó, Bagarus István Jánosné",
+    "szul_ido": "1961.03.07",
+    "anyja_neve": "Lowi Veronika",
+    "fedonev": "Operett",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  }
+]

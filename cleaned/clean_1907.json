@@ -1,0 +1,38 @@
+[
+  {
+    "guid": "b94f02fc-1061-417b-8e12-617d9461f246",
+    "nev": "Hittaller Róza, Fodor Béláné",
+    "szul_ido": "1907.06.13",
+    "anyja_neve": "Czédli Mária",
+    "fedonev": "Szinész",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "37d88614-a051-434d-86bc-a33aae30f629",
+    "nev": "Kertész Ella, Langermann Sándorné",
+    "szul_ido": "1907.07.11",
+    "anyja_neve": "Juszt Malvin",
+    "fedonev": "Solti",
+    "szul_hely": "Kunhegyes",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "108cbe51-5c06-4f39-8772-574640aaa458",
+    "nev": "Lengyel Ilona, Ivicz Béláné",
+    "szul_ido": "1907.11.29",
+    "anyja_neve": "Sipocz Anna",
+    "fedonev": "Pápainé",
+    "szul_hely": "Pápa",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "eff847a8-2160-4632-821f-6654e9cb6248",
+    "nev": "Speier Terézia, Goldschmidt Ferencné",
+    "szul_ido": "1907.10.11",
+    "anyja_neve": "Házelmayer Mária",
+    "fedonev": "Nefelejts",
+    "szul_hely": "Nyergesújfalu",
+    "irattipus": "6-os karton"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "guid": "9547cd97-9d5c-45b3-958b-aeb900f537d5",
+    "nev": "Bukvay Matild, Dézsi Józsefné",
+    "szul_ido": "1910.03.14",
+    "anyja_neve": "Kövesdi Julianna",
+    "fedonev": "Keleti",
+    "szul_hely": "Komádi",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a0313d15-5333-426d-b5af-b2df8fbdaf81",
+    "nev": "Dávid Mária",
+    "szul_ido": "1910.10.09",
+    "anyja_neve": "Kunovits Anna",
+    "fedonev": "Zöldfa",
+    "szul_hely": "Szombathely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "67e4e78a-4832-4813-a419-21fd67f99318",
+    "nev": "Káffer Róza, Zsadányi Józsefné",
+    "szul_ido": "1910.10.24",
+    "anyja_neve": "Kovács Teréz",
+    "fedonev": "Lakatos",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "2cb2f920-c598-4a3b-a6ec-eaf487a11226",
+    "nev": "Lukács László",
+    "szul_ido": "1910.09.11",
+    "anyja_neve": "Feick Anna",
+    "fedonev": "Kovács János",
+    "szul_hely": "Kispest, Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c3f94e87-9ca2-4eb0-9f02-d842fa3fc17a",
+    "nev": "Martincsevics Endre",
+    "szul_ido": "1910.12.06",
+    "anyja_neve": "Fülöp Emília",
+    "fedonev": "Patak",
+    "szul_hely": "Nagytilaj",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "7240ea5c-2da9-4323-8b84-4aec2916d95d",
+    "nev": "Trenker Ferenc",
+    "szul_ido": "1910.03.19",
+    "anyja_neve": "Mankovics Malvin",
+    "fedonev": "Tordai Róbert",
+    "szul_hely": "Tapolca",
+    "irattipus": "6-os karton"
+  }
+]

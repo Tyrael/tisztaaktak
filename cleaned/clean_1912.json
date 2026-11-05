@@ -1,0 +1,155 @@
+[
+  {
+    "guid": "9c482b0a-9270-477f-a465-39aa13d4ee23",
+    "nev": "Bársony Balázs",
+    "szul_ido": "1912.02.02",
+    "anyja_neve": "Oz Borbála",
+    "fedonev": "Ady",
+    "szul_hely": "Szolnok",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "15f94a17-c43b-4050-827a-374076ab26e3",
+    "nev": "Goldmann Edit, Sugár Miklósné",
+    "szul_ido": "1912.04.23",
+    "anyja_neve": "Weisz Janka",
+    "fedonev": "Erzsébet",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "dd59f3b5-1c17-4de9-9ecb-ea3c4ada0a0b",
+    "nev": "Hetényi Erno, dr.",
+    "szul_ido": "1912.02.13",
+    "anyja_neve": "Heidel Erzsébet",
+    "fedonev": "Pap Viktor",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "25db6d1f-f71a-47f3-aaf5-6c88e6c94283",
+    "nev": "Kapos Edit, Révész Gy. Istvánné",
+    "szul_ido": "1912.05.11",
+    "anyja_neve": "Szántó Mária",
+    "fedonev": "Krisztina",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "db71314e-a1c3-424f-a949-42861d221e31",
+    "nev": "Komleitner Emília, Jonczyk Antalné",
+    "szul_ido": "1912.04.18",
+    "anyja_neve": "Gavanda Mária",
+    "fedonev": "Teatrum",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "49dd7b4f-d332-422b-a050-bb09605ff46c",
+    "nev": "Kovács Sándor",
+    "szul_ido": "1912.03.28",
+    "anyja_neve": "Lantos Erzsébet",
+    "fedonev": "Haraszti József",
+    "szul_hely": "Székesfehérvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c40f7f9b-57b3-4ffd-82a5-dcc34652ac38",
+    "nev": "Kuti József, Kokecz József",
+    "szul_ido": "1912.10.12",
+    "anyja_neve": "Lindenfeld Karolina",
+    "fedonev": "Forrás Lak",
+    "szul_hely": "Tiszafüred",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "78d6c00e-f924-40b6-8f54-b8b2e4b8d4c9",
+    "nev": "Lissák György, dr.",
+    "szul_ido": "1912.06.10",
+    "anyja_neve": "Kozák Aranka",
+    "fedonev": "Gurál",
+    "szul_hely": "Szod",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a49e27e1-1332-4a3f-9d2f-2fd0b243ca71",
+    "nev": "Makai Lajos",
+    "szul_ido": "1912.01.14",
+    "anyja_neve": "Tóth Sülyi Ilona",
+    "fedonev": "Almási",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "01d3d12b-0289-4326-a7fe-681155c7883d",
+    "nev": "Makai Lajos",
+    "szul_ido": "1912.01.14",
+    "anyja_neve": "Tóth Sülyi Ilona",
+    "fedonev": "Almási",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c7a37a75-e5dc-49e1-9063-2213f9d68a67",
+    "nev": "Petroczi János",
+    "szul_ido": "1912.03.20",
+    "anyja_neve": "Schindler Karola",
+    "fedonev": "Szoke Gyula",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "01783fff-a84a-402d-abd4-3d72ede92405",
+    "nev": "Petroczi János",
+    "szul_ido": "1912.03.20",
+    "anyja_neve": "Schindler Karola",
+    "fedonev": "Szoke Gyula",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "bef231a9-ad18-4ddc-ad51-a1d61d8c5185",
+    "nev": "Sipos Ferenc",
+    "szul_ido": "1912.12.08",
+    "anyja_neve": "Holler Magdolna",
+    "fedonev": "Sirály",
+    "szul_hely": "Egyházasszecsod",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "6667bed2-ff9e-42e3-8536-a4fa6dfaaa99",
+    "nev": "Somogyi László",
+    "szul_ido": "1912.07.01",
+    "anyja_neve": "Medve Mária",
+    "fedonev": "Ungi László",
+    "szul_hely": "Dobruszka",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "b02a9575-9d72-47bd-b782-9af4a953bfd5",
+    "nev": "Takács János",
+    "szul_ido": "1912.02.28",
+    "anyja_neve": "Sellei Vilma",
+    "fedonev": "Biztonság",
+    "szul_hely": "Megyefa",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "45ddf27f-b65d-4aec-84bf-da6a96b2d878",
+    "nev": "Tóth Ilona, Ugi-Rácz Lászlóné",
+    "szul_ido": "1912.09.25",
+    "anyja_neve": "Kovács Terézia",
+    "fedonev": "Balaton",
+    "szul_hely": "Kecskemét",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "95522ca0-0f38-4e7a-b4b3-c6b7752373ad",
+    "nev": "Varga János",
+    "szul_ido": "1912.12.27",
+    "anyja_neve": "Bódis Karolina",
+    "fedonev": "Szilvás",
+    "szul_hely": "Molnaszecsod",
+    "irattipus": "6-os karton"
+  }
+]

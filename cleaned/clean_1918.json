@@ -1,0 +1,119 @@
+[
+  {
+    "guid": "56110886-6d9e-486c-9be1-dc92e126284a",
+    "nev": "Balogh Lajos",
+    "szul_ido": "1918.09.16",
+    "anyja_neve": "Grizi Anna",
+    "fedonev": "Bartal Lajos",
+    "szul_hely": "Esztergom",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "2ca26743-5f64-4e70-a1ee-611b8ac2b022",
+    "nev": "Fábián János, dr.",
+    "szul_ido": "1918.01.08",
+    "anyja_neve": "Horváth Anna",
+    "fedonev": "Hegyi Elemér",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a6b00c88-e08c-43a9-8efa-14441ec34b55",
+    "nev": "Földi Ilona, Cserodi Mihályné",
+    "szul_ido": "1918.09.23",
+    "anyja_neve": "Pala Ilona",
+    "fedonev": "Tulipán",
+    "szul_hely": "Salgótarján",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "b654b2d2-a586-423e-8026-970a8a7fc71c",
+    "nev": "Inántsy P. György László Károly, dr., Papp György",
+    "szul_ido": "1918.07.23",
+    "anyja_neve": "Kerekes Berta",
+    "fedonev": "100",
+    "szul_hely": "Csenger",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "7a54a1a9-3279-4518-b3a3-3fbe02b6669f",
+    "nev": "Juhász György",
+    "szul_ido": "1918",
+    "anyja_neve": "Rédl Jusztina",
+    "fedonev": "Birkás Károly",
+    "szul_hely": "Terecske",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "96a9d21f-b7ea-4e06-906a-b2636c5083f0",
+    "nev": "Méro István",
+    "szul_ido": "1918.11.22",
+    "anyja_neve": "Braun Erzsébet",
+    "fedonev": "Gazdag",
+    "szul_hely": "Sárosd",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "f92f11c6-c010-48d3-aa06-3d9133da6048",
+    "nev": "Nagy Gyula, dr.",
+    "szul_ido": "1918.09.22",
+    "anyja_neve": "Benko Vilma",
+    "fedonev": "Egressi",
+    "szul_hely": "Pelsoc",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "38c720b1-e2b5-4770-880a-81bd00073de0",
+    "nev": "Németh Gyula, dr.",
+    "szul_ido": "1918.03.31",
+    "anyja_neve": "Hoff Ilona",
+    "fedonev": "Bödoi",
+    "szul_hely": "Szekszárd",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "6b983adc-72ba-4c58-9e06-ac4170bddaa0",
+    "nev": "Ottlyk Erno, dr.",
+    "szul_ido": "1918.01.09",
+    "anyja_neve": "Zsifkovics Erzsébet Róza",
+    "fedonev": "Szamosi László",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c62b2ee5-bb72-444a-bd69-c70c228b627c",
+    "nev": "Pacali Sándor",
+    "szul_ido": "1918.04.15",
+    "anyja_neve": "Paczali Erzsébet",
+    "fedonev": "Pálinkás József",
+    "szul_hely": "Törökszentmiklós",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "58f16458-1fa6-485a-9459-714391dd0bcd",
+    "nev": "Stwertnik Elisabeth, Elisabeth Engelhardt, dr.",
+    "szul_ido": "1918.09.15",
+    "anyja_neve": "Beatrix",
+    "fedonev": "Lotte",
+    "szul_hely": "Bécs",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "8f102456-e78f-46f4-aebf-633090e780ed",
+    "nev": "Szücs Jeno",
+    "szul_ido": "1918.04.18",
+    "anyja_neve": "Fejes Rozália",
+    "fedonev": "Marosi",
+    "szul_hely": "Földeák",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "48922e4f-3d82-4d54-9e1d-da7026ed50c6",
+    "nev": "Zsemle Anna, Beró Józsefné",
+    "szul_ido": "1918.02.10",
+    "anyja_neve": "Végh Mária",
+    "fedonev": "Buzás Anna, 6/23",
+    "szul_hely": "Celldömölk",
+    "irattipus": "6-os karton"
+  }
+]

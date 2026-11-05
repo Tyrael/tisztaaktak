@@ -1,0 +1,65 @@
+[
+  {
+    "guid": "9a5c5779-e425-4d2c-b6fc-a123cc2e7ee9",
+    "nev": "Bak Ilona, Vigh Lajosné",
+    "szul_ido": "1906.12.25",
+    "anyja_neve": "Csonka Jusztina",
+    "fedonev": "olvashatatlan",
+    "szul_hely": "Hódmezovásárhely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "ca91c6ae-dcf9-424e-8d42-957c4b78d00b",
+    "nev": "Gara Sándor",
+    "szul_ido": "1906.03.12",
+    "anyja_neve": "Zöld Ágnes",
+    "fedonev": "Sirály",
+    "szul_hely": "Földes",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "31b4f99d-7459-498d-a1f3-4bc9be894dec",
+    "nev": "Grósz Mária, Fóris Istvánné",
+    "szul_ido": "1906.03.24",
+    "anyja_neve": "Gyócsi Katalin",
+    "fedonev": "Komfort",
+    "szul_hely": "Drávatamási",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "08925ef0-472e-4878-8b19-9d2a17406abd",
+    "nev": "Kisberk Imre",
+    "szul_ido": "1906.09.08",
+    "anyja_neve": "Horváth Anna",
+    "fedonev": "Berkesi Endre, Kormányos István, Imre",
+    "szul_hely": "Pereszteg",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "7efa3789-30fa-4001-ad56-057314fd0861",
+    "nev": "Olejnyi Ida, Volt Galuska, Garami Ferencé",
+    "szul_ido": "1906.09.04",
+    "anyja_neve": "Nemesánszky Mária",
+    "fedonev": "Gábor Ida, Jegenyesor",
+    "szul_hely": "Hámor",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "604fb968-31e3-4287-bf21-0ceec4cd312a",
+    "nev": "Pastrovits Anna, Kostyák Istvánné",
+    "szul_ido": "1906.07.08",
+    "anyja_neve": "Vipakovits Magdolna",
+    "fedonev": "Virág",
+    "szul_hely": "Baja",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "37bfb141-2112-4ca9-b066-1f99b84f0037",
+    "nev": "Rózsa Katinka, Csanak Béláné",
+    "szul_ido": "1906.09.22",
+    "anyja_neve": "Stern Malvin",
+    "fedonev": "Muvész",
+    "szul_hely": "Debrecen",
+    "irattipus": "6-os karton"
+  }
+]

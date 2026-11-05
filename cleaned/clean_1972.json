@@ -1,0 +1,56 @@
+[
+  {
+    "guid": "ee98742c-a21b-4b7a-9073-f98aafd4eba2",
+    "nev": "Boros József",
+    "szul_ido": "1972.04.12",
+    "anyja_neve": "Zalaba Éva",
+    "fedonev": "Kertész Béla",
+    "szul_hely": "Tatabánya",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "e915d5cc-2bab-4050-b79e-4f39bf385967",
+    "nev": "Németh Sándor",
+    "szul_ido": "1972.08.11",
+    "anyja_neve": "Csom Mária",
+    "fedonev": "Pusztai Ferenc",
+    "szul_hely": "Keszthely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "e1969cd8-3496-4605-8afc-14d1f2652187",
+    "nev": "Radzik László",
+    "szul_ido": "1972.10.30",
+    "anyja_neve": "Sárvári Éva",
+    "fedonev": "Hajós Péter",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "06a9b043-0a15-47ec-b36c-84e2b67ac840",
+    "nev": "Radzik László",
+    "szul_ido": "1972.10.30",
+    "anyja_neve": "Sárvári Éva",
+    "fedonev": "Hajós Péter",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "23055493-da4e-437f-a120-495634cf2df0",
+    "nev": "Szalai Zoltán",
+    "szul_ido": "1972.11.25",
+    "anyja_neve": "Horváth Margit",
+    "fedonev": "Körmendi",
+    "szul_hely": "Koszeg",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "9d749cd3-7baf-4665-a78c-7681d520bf2a",
+    "nev": "Széles László",
+    "szul_ido": "1972.06.26",
+    "anyja_neve": "Gózon Éva Erzsébet",
+    "fedonev": "Cseke Jeno",
+    "szul_hely": "Tata",
+    "irattipus": "6-os karton"
+  }
+]

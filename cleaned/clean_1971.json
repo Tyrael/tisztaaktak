@@ -1,0 +1,92 @@
+[
+  {
+    "guid": "456e8973-41ad-404a-9636-8c9a674b38ee",
+    "nev": "Buza Ákos",
+    "szul_ido": "1971.01.14",
+    "anyja_neve": "Horváth Éva",
+    "fedonev": "Motoros",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "5ebc1e4e-3082-4f96-a99a-e09dabfec7ea",
+    "nev": "Czentye Károly",
+    "szul_ido": "1971.02.03",
+    "anyja_neve": "Czenke Erzsébet",
+    "fedonev": "Fekete",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "016dfa1e-3682-43aa-8ee6-2944e7986a55",
+    "nev": "Huszár Sándor",
+    "szul_ido": "1971.04.04",
+    "anyja_neve": "Janta Terézia",
+    "fedonev": "Lovas",
+    "szul_hely": "Gödöllo",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "4d514b1d-0b01-43a2-95a6-71896f93aa4b",
+    "nev": "Kerékgyártó György",
+    "szul_ido": "1971.08.04",
+    "anyja_neve": "Schmolcz Klára",
+    "fedonev": "Szarka György",
+    "szul_hely": "Esztergom",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "2d3e47cf-e297-46a4-8e23-f189df5f08bb",
+    "nev": "Mórocz László",
+    "szul_ido": "1971.10.21",
+    "anyja_neve": "Török Katalin",
+    "fedonev": "Szakács László",
+    "szul_hely": "Tatabánya",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "86b0ce89-2b62-428b-a398-bc1c05ec02e4",
+    "nev": "Pahr János",
+    "szul_ido": "1971.02.05",
+    "anyja_neve": "Csiszár Rozália",
+    "fedonev": "Hegyi",
+    "szul_hely": "Sopron",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "3dce1ae2-f281-4358-901c-10c0b1abe4b1",
+    "nev": "Sallai István",
+    "szul_ido": "1971.03.19",
+    "anyja_neve": "Potoczky Andrienne Erzsébet",
+    "fedonev": "Búzás",
+    "szul_hely": "Miskolc",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "ebef096f-1a02-4f7e-b936-75c8f2d4b2cd",
+    "nev": "Szabó Zoltán",
+    "szul_ido": "1971.09.23",
+    "anyja_neve": "Major Katalin",
+    "fedonev": "Szobai",
+    "szul_hely": "Baja",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "e3c13979-b9e2-4862-ae40-128846fff1c6",
+    "nev": "Sziva Zoltán",
+    "szul_ido": "1971.04.09",
+    "anyja_neve": "Szarka Gizella",
+    "fedonev": "Ipolyi István",
+    "szul_hely": "Dunaújváros",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "0593f167-f968-4a39-9662-6f38fce26efd",
+    "nev": "Ökrös Zoltán",
+    "szul_ido": "1971.01.03",
+    "anyja_neve": "Tokár Katalin",
+    "fedonev": "Diák",
+    "szul_hely": "Szeged",
+    "irattipus": "6-os karton"
+  }
+]

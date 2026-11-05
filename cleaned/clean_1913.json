@@ -1,0 +1,110 @@
+[
+  {
+    "guid": "1d7a6986-4efd-4fc8-a783-fdc207319d56",
+    "nev": "Csepregi András",
+    "szul_ido": "1913.07.06",
+    "anyja_neve": "Sípos Dorottya",
+    "fedonev": "Autós",
+    "szul_hely": "Békéscsaba",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "75eddbbe-7f5f-4069-a400-1cf632462a99",
+    "nev": "Damasek János",
+    "szul_ido": "1913.01.18",
+    "anyja_neve": "Bradács Katalin",
+    "fedonev": "Angyal János",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "97b03003-6d0d-4db3-9367-50b32143d184",
+    "nev": "Fitos Vilmos Ferenc",
+    "szul_ido": "1913.07.14",
+    "anyja_neve": "Liska Jozefa Emilia",
+    "fedonev": "Hegyi, Futó",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a9a9d530-dcad-457b-bf6f-84e36dbfeae8",
+    "nev": "Juhász Anna",
+    "szul_ido": "1913.05.09",
+    "anyja_neve": "Pásztor Anna",
+    "fedonev": "Piramis",
+    "szul_hely": "Balsa",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "f57dd7d0-a682-49f1-9d11-378db8ab4bbe",
+    "nev": "Kapuy Károly Vitál",
+    "szul_ido": "1913.08.31",
+    "anyja_neve": "Ercsy Irén",
+    "fedonev": "Marosi Zoltán, Rieger József",
+    "szul_hely": "Torontálalmás",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c87c7847-4726-4c2e-9258-6e75ab8599d9",
+    "nev": "Király Lajos",
+    "szul_ido": "1913.08.30",
+    "anyja_neve": "Farkas Eszter",
+    "fedonev": "Komuves",
+    "szul_hely": "Hódmezovásárhely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "414eaf0e-d96d-4c4f-99f8-94333e6847c6",
+    "nev": "Kiss Vilma, Timár Jenoné",
+    "szul_ido": "1913.04.04",
+    "anyja_neve": "Rozsnyay Vilma",
+    "fedonev": "Pékné",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "6ca84cae-9d6d-4cda-91cb-23e62716e802",
+    "nev": "Klein Ilona, Borsodi Sándorné",
+    "szul_ido": "1913.11.07",
+    "anyja_neve": "Friedmann Piroska",
+    "fedonev": "Szerelo",
+    "szul_hely": "Nagyvisnyó",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c910f000-cdfe-4eff-b6db-b574652f8cce",
+    "nev": "Koren Mihály",
+    "szul_ido": "1913.10.09",
+    "anyja_neve": "Nagy Rozália",
+    "fedonev": "Osz",
+    "szul_hely": "Ecseg",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "17a39604-d3e4-4486-a659-054f072d6e8a",
+    "nev": "Vadász Ödön",
+    "szul_ido": "1913.08.02",
+    "anyja_neve": "Zábó Szidónia",
+    "fedonev": "Bodrogi Ferenc",
+    "szul_hely": "Marcali",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "5313c17c-1958-4046-a1b0-62de24b387da",
+    "nev": "Veres Barna, dr.",
+    "szul_ido": "1913.12.20",
+    "anyja_neve": "Koleszár Hermin",
+    "fedonev": "Sebes Géza",
+    "szul_hely": "Serényfalva",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "6a2a5ec5-672e-40fc-be61-2c312060bb24",
+    "nev": "Volmuth Frigyes",
+    "szul_ido": "1913.11.10",
+    "anyja_neve": "Kuzmics Mária Rozália",
+    "fedonev": "Valentin",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  }
+]

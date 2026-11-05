@@ -1,0 +1,38 @@
+[
+  {
+    "guid": "c5e057db-8669-4da8-a01f-72864816bb64",
+    "nev": "Beérti Xénia, Kónya Károlyné",
+    "szul_ido": "1903.02.10",
+    "anyja_neve": "Grokovics Éva",
+    "fedonev": "Tulipán",
+    "szul_hely": "Torontál",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "064e2d29-37b8-4ba9-9f3f-d497000c5097",
+    "nev": "Frajkó Erzsébet",
+    "szul_ido": "1903.11.13",
+    "anyja_neve": "Rovni Erzsébet",
+    "fedonev": "Török",
+    "szul_hely": "Bakonyszombathely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "dcc2ca59-7aef-47ca-a587-87672f9230cd",
+    "nev": "Hábel Imre",
+    "szul_ido": "1903.10.09",
+    "anyja_neve": "Végh Erzsébet",
+    "fedonev": "Postás",
+    "szul_hely": "Ipolykürt-puszta",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "2aa6c295-a884-43ae-9373-8ed4fb6babba",
+    "nev": "olvashatatlan",
+    "szul_ido": "1903.08.15",
+    "anyja_neve": "Vlatsa Anasztázia",
+    "fedonev": "Szilvási",
+    "szul_hely": "Kozáni",
+    "irattipus": "6-os karton"
+  }
+]

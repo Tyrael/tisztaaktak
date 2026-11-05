@@ -1,0 +1,47 @@
+[
+  {
+    "guid": "49c2df40-e5ea-413f-9a10-0d6eb8a704cd",
+    "nev": "Aranyosi Miklós",
+    "szul_ido": "1905.04.13",
+    "anyja_neve": "Horváth Rozália",
+    "fedonev": "Tóth József",
+    "szul_hely": "Sztálinváros",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "af7540a7-90d4-4a2e-a9e5-095db7205d88",
+    "nev": "Arián Janka",
+    "szul_ido": "1905.04.12",
+    "anyja_neve": "Jung Ilona",
+    "fedonev": "Anna",
+    "szul_hely": "Karancs",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "bc485536-eb87-4008-aefe-edd256fe4ef3",
+    "nev": "Englaser Erzsébet",
+    "szul_ido": "1905.04.15",
+    "anyja_neve": "Kopfschögl Mária",
+    "fedonev": "Ella",
+    "szul_hely": "Mosonmagyaróvár",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "bc970687-5cd8-499a-b7df-a2ca3526b067",
+    "nev": "Indrach Lajos, Indrach Ludwig",
+    "szul_ido": "1905.04.03",
+    "anyja_neve": "Stoger Josephine",
+    "fedonev": "Gruber, Trommer",
+    "szul_hely": "Schützen",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "df65b516-3f4f-4d78-a39a-a7d2694f6b98",
+    "nev": "Joó Zoltán",
+    "szul_ido": "1905.04.06",
+    "anyja_neve": "Herczegh Zsuzsanna",
+    "fedonev": "Tavasz-lak",
+    "szul_hely": "Esztergom",
+    "irattipus": "6-os karton"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "guid": "e17cd206-ec3f-4c26-99a8-f48479ac23fc",
+    "nev": "Faddi Otmár Gusztáv",
+    "szul_ido": "1909.05.19",
+    "anyja_neve": "Komáromi Teréz",
+    "fedonev": "Szabadi János",
+    "szul_hely": "Jánoshalma",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c471c33d-7a64-48c9-91f7-b52747199d4d",
+    "nev": "Pásztor Ilona, Szincsák Mihályné, özv.",
+    "szul_ido": "1909.10.22",
+    "anyja_neve": "Buger Mária",
+    "fedonev": "Baráth-lak",
+    "szul_hely": "Nagybégány",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "963a6a60-53a7-4707-b62f-89e32452dc5a",
+    "nev": "Sulics Albina, Pintér Károlyné",
+    "szul_ido": "1909.03.01",
+    "anyja_neve": "Csrenkó Júlia",
+    "fedonev": "Széplak",
+    "szul_hely": "Felsoszölnök",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "8557522e-f214-45ec-835c-1e1d5805f2ea",
+    "nev": "Szabari Margit, Papp Károlyné",
+    "szul_ido": "1909.03.30",
+    "anyja_neve": "Varga Zsófia",
+    "fedonev": "Csendes",
+    "szul_hely": "Alsójózsa",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "906d0340-2f19-4547-9946-3519f9184d74",
+    "nev": "Szarka János",
+    "szul_ido": "1909.03.16",
+    "anyja_neve": "András Rozália",
+    "fedonev": "Kilián",
+    "szul_hely": "Cinkota",
+    "irattipus": "6-os karton"
+  }
+]

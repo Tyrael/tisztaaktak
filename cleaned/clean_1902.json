@@ -1,0 +1,38 @@
+[
+  {
+    "guid": "8268b534-9262-48c8-9d9c-4493ed5307fe",
+    "nev": "Cserép Mária, Kövesdi Jeno Gyuláné",
+    "szul_ido": "1902.04.20",
+    "anyja_neve": "Lancz Viktória",
+    "fedonev": "Marosi",
+    "szul_hely": "Rezi",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "94ca1ce8-a928-4eb4-99c7-a13a0c511365",
+    "nev": "Gilyán István",
+    "szul_ido": "1902.08.14",
+    "anyja_neve": "Szicsovszki Julianna",
+    "fedonev": "Gólyavár",
+    "szul_hely": "Baja",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "cea4b0d8-56ce-4dde-ae52-9fa3a6103aa6",
+    "nev": "Mayer Ilona, Solti Gyuláné",
+    "szul_ido": "1902.07.18",
+    "anyja_neve": "Bertalan Karolin",
+    "fedonev": "Buda",
+    "szul_hely": "Marcali",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "5b8f733f-5665-4d4b-98a0-367b6b83734f",
+    "nev": "Szummer András",
+    "szul_ido": "1902.03.21",
+    "anyja_neve": "Rák Erzsébet",
+    "fedonev": "Burgonyás",
+    "szul_hely": "Vencsello",
+    "irattipus": "6-os karton"
+  }
+]

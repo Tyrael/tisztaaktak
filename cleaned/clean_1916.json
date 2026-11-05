@@ -1,0 +1,101 @@
+[
+  {
+    "guid": "09b2eab0-5156-41eb-837b-b33150ae573a",
+    "nev": "Balaicz Vendel",
+    "szul_ido": "1916.09.03",
+    "anyja_neve": "Lapáth Mária",
+    "fedonev": "Zala",
+    "szul_hely": "olvashatatlan",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "f6df769f-bc35-4bba-bca5-0362984ec119",
+    "nev": "Ficzere István",
+    "szul_ido": "1916.10.23",
+    "anyja_neve": "Gonda Veronika",
+    "fedonev": "Otthon",
+    "szul_hely": "Jánosháza",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "9f1b9679-784d-4b31-82cf-0ca826901e22",
+    "nev": "Fritz Katalin, Potyi Jánosné",
+    "szul_ido": "1916.10.19",
+    "anyja_neve": "Leffler Julianna",
+    "fedonev": "Filodendron",
+    "szul_hely": "Szombathely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "1c79b0cc-d94f-4e5a-b1df-87678d584a8f",
+    "nev": "Grümvald Ferenc",
+    "szul_ido": "1916.02.19",
+    "anyja_neve": "Steininger Lujza",
+    "fedonev": "Helikon",
+    "szul_hely": "Keszthely",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "bd06751f-4616-4f13-b8a3-ec54eaf4c378",
+    "nev": "Magyar Ferenc",
+    "szul_ido": "1916.01.11",
+    "anyja_neve": "Varga Erzsébet",
+    "fedonev": "Igaz Sándor",
+    "szul_hely": "Ipolygalsa",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "66f4d96c-6be5-47ff-8d19-1d4ae6f0e36a",
+    "nev": "Nagy Sándor",
+    "szul_ido": "1916.12.01",
+    "anyja_neve": "Nemes Eszter",
+    "fedonev": "Nemes Sándor",
+    "szul_hely": "Körösladány",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "6d09c649-567f-4846-bd77-ff7c4ef00aa4",
+    "nev": "Szakos Gyula",
+    "szul_ido": "1916.08.10",
+    "anyja_neve": "Zsigmond Teréz",
+    "fedonev": "Szakács",
+    "szul_hely": "Sótony",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c13e86e7-c16d-4572-b169-f46beb424141",
+    "nev": "Takács Ilona, Tóth Imréné",
+    "szul_ido": "1916.11.03",
+    "anyja_neve": "Bodacz Jusztina",
+    "fedonev": "Centrum",
+    "szul_hely": "Kecskemét",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "f84d6087-1847-4103-9829-ea486f6e45cc",
+    "nev": "Varga Erno",
+    "szul_ido": "1916.07.25",
+    "anyja_neve": "Bernáth Rozália",
+    "fedonev": "Tamási",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "c2cb1fea-a7d2-435c-96ff-072b65792200",
+    "nev": "Varga Gizella, Nagy Lajosné",
+    "szul_ido": "1916.01.30",
+    "anyja_neve": "Pomaj Terézia",
+    "fedonev": "Forrás",
+    "szul_hely": "Zádorfalva",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "e723642f-b0a0-4c9e-8575-5838b34b7071",
+    "nev": "Varga Margit, Vincze Bertalanné",
+    "szul_ido": "1916.01.03",
+    "anyja_neve": "Varga Julianna",
+    "fedonev": "Agria-lak",
+    "szul_hely": "Rudabánya",
+    "irattipus": "6-os karton"
+  }
+]

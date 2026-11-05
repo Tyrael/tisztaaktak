@@ -1,0 +1,110 @@
+[
+  {
+    "guid": "1736017b-1ac2-4e3b-a7b6-33652ad5b577",
+    "nev": "Deme Dezso",
+    "szul_ido": "1915.02.19",
+    "anyja_neve": "Lehoczki Mária",
+    "fedonev": "Gömöri József",
+    "szul_hely": "Sajóháza",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "5610ccbf-bbbd-4754-bec4-e5c9ab76500d",
+    "nev": "Fundéliusz Vilmos, dr.",
+    "szul_ido": "1915.05.28",
+    "anyja_neve": "Bitó Veronika Viktória",
+    "fedonev": "Papp József",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "d07587c5-4583-4e9e-a44c-1c4c79ed2a5a",
+    "nev": "Kenedy Károly, Scheurer Károly",
+    "szul_ido": "1915.06.27",
+    "anyja_neve": "Krticzka Mária",
+    "fedonev": "Kondor Béla",
+    "szul_hely": "Gyönk",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "20c1792a-75b9-412b-b082-92bc2042c6e4",
+    "nev": "Koren Emil",
+    "szul_ido": "1915.04.07",
+    "anyja_neve": "Donner Paula",
+    "fedonev": "Békési Károly",
+    "szul_hely": "Békéscsaba",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "aea58e0b-db54-49c5-91f2-9158632ed2fc",
+    "nev": "Kulhanek Erzsébet Johanna",
+    "szul_ido": "1915.09.23",
+    "anyja_neve": "Brisztay Martina Ilona",
+    "fedonev": "Sas",
+    "szul_hely": "Szabadka",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "a56136ad-8f16-4bbc-a361-da7fdb585db0",
+    "nev": "Meretei János",
+    "szul_ido": "1915.02.22",
+    "anyja_neve": "Tóth Mária",
+    "fedonev": "Miklósi",
+    "szul_hely": "Zselickisfalud",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "8ffffdab-30b8-4597-a0d3-08e95f894c50",
+    "nev": "P. Szabó Sándor",
+    "szul_ido": "1915.01.06",
+    "anyja_neve": "Szarka Erzsébet",
+    "fedonev": "Csarnok, Klub",
+    "szul_hely": "Karcag",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "7a5c09a3-2c6b-4315-a404-06ca3322536a",
+    "nev": "Simon József",
+    "szul_ido": "1915.08.04",
+    "anyja_neve": "Vizi Mária",
+    "fedonev": "Nárcisz",
+    "szul_hely": "Tapolca",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "48076c1e-5a69-4b7a-8d9b-930eff532df3",
+    "nev": "Szamosközi István",
+    "szul_ido": "1915.04.27",
+    "anyja_neve": "Vinkovich Gizella",
+    "fedonev": "Szatmári",
+    "szul_hely": "Budapest",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "0c6c1f0e-f8ad-4e65-882a-68373dcc4c2f",
+    "nev": "Tóth Eszter, Berkes Kálmánné, dr.",
+    "szul_ido": "1915.04.20",
+    "anyja_neve": "Vass Rozália",
+    "fedonev": "Erdosné",
+    "szul_hely": "Dévaványa",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "19a2fcc3-50b4-4b65-b6db-2efd2ed68cbe",
+    "nev": "Vándor Rozália, Pándi Béláné",
+    "szul_ido": "1915.05.28",
+    "anyja_neve": "Lepéner Anna",
+    "fedonev": "Bánhegyi",
+    "szul_hely": "Felsogalla",
+    "irattipus": "6-os karton"
+  },
+  {
+    "guid": "adcb0536-05ae-4fcd-99ba-f5e9bb182d2b",
+    "nev": "olvashatatlan",
+    "szul_ido": "1915.08.13",
+    "anyja_neve": "olvashatatlan",
+    "fedonev": "Mari",
+    "szul_hely": "",
+    "irattipus": "6-os karton"
+  }
+]
